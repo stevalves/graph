@@ -1,0 +1,83 @@
+[
+  {"from": "Estevão", "to": "Fantasia", "weight": 1},
+  {"from": "Estevão", "to": "JOJO", "weight": 1},
+  {"from": "Estevão", "to": "Comédia", "weight": 1},
+  {"from": "Estevão", "to": "Shounen", "weight": 1},
+
+  {"from": "Guilherme", "to": "Romance", "weight": 1},
+  {"from": "Guilherme", "to": "Fantasia", "weight": 1},
+  {"from": "Guilherme", "to": "Aventura", "weight": 1},
+  {"from": "Guilherme", "to": "JOJO", "weight": 1},
+  {"from": "Guilherme", "to": "Ficção", "weight": 1},
+  {"from": "Guilherme", "to": "Ação", "weight": 1},
+  {"from": "Guilherme", "to": "Comédia", "weight": 1},
+
+  {"from": "Jênie", "to": "Romance", "weight": 1},
+  {"from": "Jênie", "to": "Fantasia", "weight": 1},
+  {"from": "Jênie", "to": "Aventura", "weight": 1},
+
+  {"from": "Felipe Garcia", "to": "Romance", "weight": 1},
+  {"from": "Felipe Garcia", "to": "Aventura", "weight": 1},
+  {"from": "Felipe Garcia", "to": "JOJO", "weight": 1},
+  {"from": "Felipe Garcia", "to": "Shoujo", "weight": 1},
+
+  {"from": "Rodrigo Shinji", "to": "Romance", "weight": 1},
+  {"from": "Rodrigo Shinji", "to": "Fantasia", "weight": 1},
+  {"from": "Rodrigo Shinji", "to": "Aventura", "weight": 1},
+  {"from": "Rodrigo Shinji", "to": "JOJO", "weight": 1},
+  {"from": "Rodrigo Shinji", "to": "Seinen", "weight": 1},
+  {"from": "Rodrigo Shinji", "to": "Ação", "weight": 1},
+  {"from": "Rodrigo Shinji", "to": "Comédia", "weight": 1},
+  {"from": "Rodrigo Shinji", "to": "Shounen", "weight": 1},
+
+  {"from": "~Cc", "to": "Romance", "weight": 1},
+  {"from": "~Cc", "to": "Aventura", "weight": 1},
+  {"from": "~Cc", "to": "Ação", "weight": 1},
+  {"from": "~Cc", "to": "Comédia", "weight": 1},
+
+  {"from": "Diogo Francisco", "to": "Romance", "weight": 1},
+  {"from": "Diogo Francisco", "to": "Aventura", "weight": 1},
+  {"from": "Diogo Francisco", "to": "Ficção", "weight": 1},
+  {"from": "Diogo Francisco", "to": "Seinen", "weight": 1},
+  {"from": "Diogo Francisco", "to": "Terror", "weight": 1},
+
+  {"from": "Rayssa Marconato", "to": "Romance", "weight": 1},
+  {"from": "Rayssa Marconato", "to": "Aventura", "weight": 1},
+  {"from": "Rayssa Marconato", "to": "Ação", "weight": 1},
+  {"from": "Rayssa Marconato", "to": "Comédia", "weight": 1},
+
+  {"from": "Alexandre Gomes", "to": "Fantasia", "weight": 1},
+  {"from": "Alexandre Gomes", "to": "Aventura", "weight": 1},
+  {"from": "Alexandre Gomes", "to": "Ficção", "weight": 1},
+  {"from": "Alexandre Gomes", "to": "Ação", "weight": 1},
+  {"from": "Alexandre Gomes", "to": "Comédia", "weight": 1},
+
+  {"from": "Samara Adorno", "to": "Fantasia", "weight": 1},
+  {"from": "Samara Adorno", "to": "Aventura", "weight": 1},
+  {"from": "Samara Adorno", "to": "Ação", "weight": 1},
+  {"from": "Samara Adorno", "to": "Comédia", "weight": 1},
+
+  {"from": "Gustavo Henrique", "to": "Aventura", "weight": 1},
+  {"from": "Gustavo Henrique", "to": "JOJO", "weight": 1},
+  {"from": "Gustavo Henrique", "to": "Ação", "weight": 1},
+  {"from": "Gustavo Henrique", "to": "Comédia", "weight": 1},
+  {"from": "Gustavo Henrique", "to": "Shounen", "weight": 1},
+
+  {"from": "Daniel", "to": "Aventura", "weight": 1},
+  {"from": "Daniel", "to": "Ação", "weight": 1},
+
+  {"from": "Vinicius Gualtieri", "to": "Comédia", "weight": 1},
+
+  {"from": "Artur Taroco", "to": "Shounen", "weight": 1},
+
+  {"from": "Simone", "to": "Shounen", "weight": 1},
+
+  {"from": "Matheus Pedroza", "to": "JOJO", "weight": 1},
+  {"from": "Matheus Pedroza", "to": "Seinen", "weight": 1},
+
+  {"from": "Zé Vitor", "to": "JOJO", "weight": 1},
+  {"from": "Zé Vitor", "to": "Seinen", "weight": 1},
+  {"from": "Zé Vitor", "to": "Ação", "weight": 1},
+  {"from": "Zé Vitor", "to": "Comédia", "weight": 1},
+  {"from": "Zé Vitor", "to": "Shounen", "weight": 1}
+]
