@@ -16,7 +16,7 @@ Projeto acadêmico de análise e geração de matrizes (incidência, similaridad
 | Estevão Alves dos Santos  | 1990000            |
 | Vanessa Kaori Kurauchi    | 2002344            |
 | Rodrigo Shinji Yamashita  | 2001443            |
-| Guilherme Dorce de Britto | 2002344            |
+| Guilherme Dorce de Britto | 1991866            |
 
 ## Descrição do Projeto
 
