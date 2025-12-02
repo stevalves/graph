@@ -18,36 +18,36 @@
 
 A partir do DATASET, gerar:
 
-- [ ] Matriz de incidência
-- [ ] Matriz de similaridade
-- [ ] Matriz de coocorrência
+- [x] Matriz de incidência
+- [x] Matriz de similaridade
+- [x] Matriz de coocorrência
 
 ### 3. Construção de Grafos
 
 A partir das matrizes, criar:
 
-- [ ] Grafo de incidência
-- [ ] Grafo de similaridade
-- [ ] Grafo de coocorrência
+- [x] Grafo de incidência
+- [x] Grafo de similaridade
+- [x] Grafo de coocorrência
 
 ### 4. Análise de Métricas Topológicas
 
 Calcular as métricas topológicas (MT) para cada grafo:
 
-- [ ] MT do Grafo de incidência
-- [ ] MT do Grafo de similaridade
-- [ ] MT do Grafo de coocorrência
+- [x] MT do Grafo de incidência
+- [x] MT do Grafo de similaridade
+- [x] MT do Grafo de coocorrência
 
 ### 5. Documentação do Código
 
-- [ ] Comentar pontos-chave do código para facilitar entendimento
-- [ ] Revisar código com o grupo
+- [x] Comentar pontos-chave do código para facilitar entendimento
+- [x] Revisar código com o grupo
 
 ### 6. Preparação da Apresentação
 
-- [ ] Preparar slides/material
-- [ ] Ensaiar apresentação
-- [ ] Revisar com todos os integrantes
+- [x] Preparar slides/material
+- [x] Ensaiar apresentação
+- [x] Revisar com todos os integrantes
 
 ## Entregáveis
 
@@ -95,15 +95,15 @@ Preparar apresentação de 10 minutos abordando:
 
 ## Checklist Final
 
-- [ ] Dataset criado e validado
-- [ ] Todas as matrizes geradas
-- [ ] Todos os grafos construídos
-- [ ] Métricas topológicas calculadas
-- [ ] Código comentado
-- [ ] Relatório completo (template)
-- [ ] Apresentação preparada (≤10 min)
-- [ ] Revisão em grupo realizada
-- [ ] Material enviado antes do prazo
+- [x] Dataset criado e validado
+- [x] Todas as matrizes geradas
+- [x] Todos os grafos construídos
+- [x] Métricas topológicas calculadas
+- [x] Código comentado
+- [x] Relatório completo (template)
+- [x] Apresentação preparada (≤10 min)
+- [x] Revisão em grupo realizada
+- [x] Material enviado antes do prazo
 
 ## Observações
 
